@@ -1,0 +1,22 @@
+.yourContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    
+    background-color: #050259; /* Replace with your desired blue color */
+  }
+  
+  .card {
+    display: flex;
+    background-color: #eef0ff;
+    justify-content: flex-end;
+    padding: 10rem;
+    align-items: center;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+  }
+  .heders{
+    margin-left: 3%;
+      
+  }
